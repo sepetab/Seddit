@@ -1,0 +1,12 @@
+29/08/19     16:00   18:00  Understood the assignment and looked up basic js and coded bit of login and signup.
+31/08/19     14:00   16:00  Implemented skeleton of login and signup
+1/08/19      12:00   16:00  Converted HTML to JS for index.html
+2/08/19      14:00   18:00  Interacted with backend for login and signup
+3/08/19      16:00   18:00  Got posts for individual user when logged in
+4/08/19      14:00   15:00  Improved UI like hiding some buttons and upvote logo for seddit.
+6/08/19      13:00   16:00  Implemented upvoting and downvoting function.
+7/08/19      12:00   15:00  Implemented modals and User information and posting without images
+8/08/19      14:00   16:00  Implemented show upvotes and comments
+9/09/19      16:00   19:00  Implemented pagination and posting with images and updated url to apiurl. Fixed bugs and ready to Submit!
+11/09/19     13:00   14:00  Tested and removed console.log commands.
+
